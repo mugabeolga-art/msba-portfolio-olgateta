@@ -1,0 +1,64 @@
+feature,mean_abs_shap
+referrals_count,0.86183214
+contract_term_Month-to-month,0.66195726
+dependents_count,0.49319798
+tenure_mo,0.40607217
+monthly_fee,0.30742094
+has_dependents_No,0.21511714
+pay_method_Electronic check,0.19310124
+contract_term_Two year,0.18948233
+internet_plan_Fiber optic,0.18495724
+total_billed,0.16299075
+penalty_fee_rate,0.16022633
+age_years,0.15079834
+fee_minus_avg_billed,0.13799815
+bundle_score,0.13571572
+avg_billed_per_month,0.1304579
+penalty_fees_total,0.12025206
+multi_line_No,0.11476076
+avg_long_dist_fee,0.10876277
+avg_gb_download,0.108207636
+tenure_log1p,0.10376175
+e_bill_opt_in_No,0.09518845
+long_dist_fees_total,0.09236666
+pay_method_Mailed check,0.08518681
+is_married_No,0.078636065
+internet_tech_Cable,0.059656925
+cluster_2,0.057011686
+has_dependents_Yes,0.043078896
+received_refund,0.04017263
+multi_line_Yes,0.03552303
+cluster_3,0.029932458
+extra_data_fees_total,0.02725545
+e_bill_opt_in_Yes,0.025663558
+internet_tech_DSL,0.024360904
+contract_term_One year,0.023797646
+internet_plan_DSL,0.018877886
+is_autopay,0.018545408
+recent_offer_missing,0.017776998
+recent_offer_Offer D,0.016908856
+pay_method_Bank transfer (automatic),0.016219845
+is_married_Yes,0.01584278
+gender_Female,0.014907779
+internet_tech_Fiber Optic,0.013540443
+pay_method_Credit card (automatic),0.012796282
+recent_offer_Offer E,0.010728556
+recent_offer_Offer B,0.01006912
+unlimited_data_opt_No,0.009637307
+tenure_group_7-12,0.008969445
+referred_friend_No,0.008790146
+gender_Male,0.008112274
+tenure_group_25-48,0.0066948845
+cluster_0,0.0057103853
+tenure_group_0-6,0.005428012
+recent_offer_Offer C,0.0049550543
+recent_offer_Unknown,0.004687347
+tenure_group_13-24,0.004583303
+home_phone,0.0034895767
+recent_offer_Offer A,0.0016465237
+referred_friend_Yes,0.001602884
+internet_plan_No,0.0
+unlimited_data_opt_Yes,0.0
+internet_tech_Unknown,0.0
+tenure_group_49-72,0.0
+cluster_1,0.0
